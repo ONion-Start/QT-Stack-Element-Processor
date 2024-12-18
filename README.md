@@ -44,7 +44,7 @@ Stack Element Processor — это приложение для обработк�
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone [https://github.com/<ваш-репозиторий>/stack-element-processor.git](https://github.com/ONion-Start/QT-Stack-Element-Processor/tree/main)
+   git clone (https://github.com/ONion-Start/QT-Stack-Element-Processor/tree/main)
    ```
 
 2. Откройте проектный файл в Qt Creator.
